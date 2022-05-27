@@ -19,6 +19,23 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "RLPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "FTILiveLink",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8ff88c0426a94deeb3806ae3d0eebd18",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
 		}
 	]
 }
